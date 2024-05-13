@@ -96,7 +96,7 @@ width: 100%;
 }
 #page1 img{
     position: absolute;
-    width: 100%;
+    width: 101%;
     top: 80%;
     left: 50%;
     transform: translate(-50%,0) scale(0.9);
